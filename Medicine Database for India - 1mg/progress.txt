@@ -1,0 +1,6 @@
+TODO:
+
+14:56 24/11/2020
+> Extract Links from "C" to "Z"
+> Extract Data from links.txt file
+
